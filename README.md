@@ -22,7 +22,7 @@ This script shortens a given long URL using TinyURL's API. It sends a request to
 2. **Run the script**:
 
     ```bash
-    python script.py
+    python shortner.py
     ```
 
    Replace `script.py` with the name of your Python script file if it's different.
